@@ -1,0 +1,5 @@
+# Kompilierungsergebnisse
+*.o
+*.exe
+/build/
+

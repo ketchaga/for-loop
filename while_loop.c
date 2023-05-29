@@ -14,10 +14,6 @@ int main() {
         return 1;
     }
 
-    // Text in die Datei schreiben
-    fprintf(datei, "Dies ist ein Beispieltext.\n");
-    fprintf(datei, "Das ist eine weitere Zeile.\n");
-
 
     // Schritt 11: Jedes Zeichen der Datei drucken
     char zeichen;
